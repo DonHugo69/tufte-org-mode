@@ -1,5 +1,4 @@
 ;;; ox-tufte-latex.el --- Tufte LaTeX Back-End for Org Export Engine
-;; Test 1
 
 ;; Copyright (C) 2016 Thomas S. Dye
 
@@ -631,7 +630,6 @@ Return PDF file's name."
 (provide 'ox-tufte-latex)
 
 ;; Local variables:
-;; generated-autoload-file: "org-loaddefs.el"
 ;; End:
 
 ;;; ox-tufte-latex.el ends here
